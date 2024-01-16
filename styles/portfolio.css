@@ -52,7 +52,7 @@ p   {
 .hero h2  {
     font-family: var(--heading-font-family);
     font-weight: normal;
-    line-height: 1.5px;
+    line-height: 2px;
     font-size: 24px;
 }
 
@@ -97,7 +97,7 @@ p   {
     }
 
     .hero h2    {
-     line-height: 2.5px;
+     line-height: 20px;
     font-size: 16px;   
     }
 
