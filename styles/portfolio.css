@@ -112,11 +112,12 @@ p   {
 }
 
 .logo  {
-    max-height: 40px;
+    max-height: 70px;
+    margin-left: 40px;
 }
 
 nav {
-  padding:  20px 0;  
+  padding:  20px 80px;  
 }
 
 nav ul {
@@ -246,5 +247,15 @@ footer .social-links a:hover   {
         font-size: 14px;
         margin: 5px;
     }
+
+    .logo  {
+    max-height: 40px;
+    margin: 0px;
 }
+    nav {
+    padding:  20px 0px;  
+}
+}
+
+
 
