@@ -171,6 +171,18 @@ footer .email-link:hover  {
     color: var(--branding-color);
 }
 
+.col-3  a    {
+    color: var(--branding-color);
+    background-color: var(--secondary-color);
+    color: black;
+}
+
+.col-3  a:hover    {
+    color: white;
+    background: var(--branding-color);
+}
+
+
 footer .social-links a {
     margin: 0 20px;
     color: var(--branding-color);
