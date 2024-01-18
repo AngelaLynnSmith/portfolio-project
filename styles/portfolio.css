@@ -147,6 +147,11 @@ nav li.active a  {
     border-radius: 10px;
 }
 
+.skills-img-fluid {
+    display: block;
+    margin: 0 auto;
+}
+
 footer  {
     margin: 60px 0;
 }
