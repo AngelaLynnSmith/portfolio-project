@@ -23,14 +23,13 @@ h6 {
 h1  {
     font-size: 96px;
     line-height: 1.5;
-    font-family: var(--heading-font-family)
 }
 
 h2  {
     font-size: 50px;
 }
 
-h4  {
+h3  {
     font-size: 48px;
 }
 
@@ -43,7 +42,7 @@ p   {
 .hero   {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
 }
 
 .hero p     {
@@ -56,12 +55,12 @@ p   {
 .hero h2  {
     font-family: var(--heading-font-family);
     font-weight: normal;
-    line-height: 2px;
+    line-height: 1.5px;
     font-size: 24px;
 }
 
 .content-container  {
-        padding: 80px 20px;
+        padding: 60px 20px;
 }
 
 .content h1   {
@@ -114,7 +113,7 @@ p   {
 }
 
 .logo  {
-    max-width: 150px;
+    max-height: 40px;
 }
 
 nav {
@@ -167,7 +166,6 @@ footer .email-link  {
     text-decoration: none;
     color: black;
     font-size: 24px;
-    text-align: center;
 }
 
 footer .email-link:hover  {
@@ -199,16 +197,12 @@ footer .social-links a:hover   {
         font-size: 40px;
     }
 
-    h4 {
+    h3 {
         font-size: 20px;
     }
 
     .btn    {
         font-size: 18px;
-    }
-
-    .hero  {
-        padding: 80px 20px;
     }
 
     .hero h2    {
@@ -231,7 +225,6 @@ footer .social-links a:hover   {
         text-align: center;
     }
 
- 
 
     .nav a  {
         font-size: 14px;
