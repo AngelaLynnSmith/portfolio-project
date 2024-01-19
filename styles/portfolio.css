@@ -116,6 +116,11 @@ p   {
     margin-left: 40px;
 }
 
+.skills-icons   {
+    display: block;
+    margin: 0;
+}
+
 nav {
   padding:  20px 80px;  
 }
